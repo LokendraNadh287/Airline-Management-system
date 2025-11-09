@@ -1,0 +1,21 @@
+{
+  "name": "Airline Management System",
+  "short_name": "AirlineMS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007BFF",
+  "description": "A modern airline management system for managing operations, flight schedules, ticket booking, and passenger details.",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
